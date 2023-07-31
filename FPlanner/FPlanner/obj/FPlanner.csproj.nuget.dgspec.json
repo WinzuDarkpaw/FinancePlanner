@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\VisualStudio Projekte\\FPlanner\\FPlanner\\FPlanner.csproj": {}
+  },
+  "projects": {
+    "E:\\VisualStudio Projekte\\FPlanner\\FPlanner\\FPlanner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\VisualStudio Projekte\\FPlanner\\FPlanner\\FPlanner.csproj",
+        "projectName": "FPlanner",
+        "projectPath": "E:\\VisualStudio Projekte\\FPlanner\\FPlanner\\FPlanner.csproj",
+        "packagesPath": "C:\\Users\\de01086\\.nuget\\packages\\",
+        "outputPath": "E:\\VisualStudio Projekte\\FPlanner\\FPlanner\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\de01086\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\combit\\LL25\\Beispiele\\Microsoft .NET\\NuGet": {},
+          "C:\\Users\\Public\\Documents\\Infragistics\\NuGet\\": {},
+          "C:\\Users\\Public\\Documents\\NuGet": {},
+          "http://wmnuget/v3/index.json": {},
+          "https://www.nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "net462": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "MaterialDesignColors": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            },
+            "MvvmDialogs": {
+              "target": "Package",
+              "version": "[9.1.0, )"
+            },
+            "MvvmLightLibs": {
+              "target": "Package",
+              "version": "[5.4.1.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
